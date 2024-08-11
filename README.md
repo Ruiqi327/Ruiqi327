@@ -7,8 +7,6 @@
 - 😄 Ready for CV/NLP... and any field of AI.
 - 💦 Preparing for Graduate School Entrance Exam.
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ruiqi327&theme=xcode" /> </div>
-
 ### My experience
 
 - 🍀 Innovation and Entrepreneurship Program for College Students: National Level, Leader, 2024
