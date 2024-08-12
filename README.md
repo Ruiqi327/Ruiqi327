@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ruiqi!
 
-- 🔭 I am currently a senior at Sichuan University (SCU), majoring in electroic and information engineering (EIE).
+- 🔭 I am currently a senior at Sichuan University (SCU), majoring in Electronic Information Engineering (EIE).
 - 🌱 I’m currently learning and researching convex optimization and distributed control of MAS.
 - 💬 Ask me about neurodymaic optimization approaches...
 - 📫 How to reach me: zhouruiqi@stu.scu.edu.cn.
