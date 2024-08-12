@@ -9,7 +9,7 @@
 
 ### My experience
 
-- 🍀 Innovation and Entrepreneurship Program for College Students: National Level, Header, 2024
+- 🍀 Innovation and Entrepreneurship Program for College Students: National Level, Leader, 2024
 - 🍀 Third Prize in the National College Student Optoelectronic Design Competition (Sichuan Province), 2024
 - 🍀 Second Prize in Sichuan University Mathematics Competition, 2024
 - 🍀 Mathematical Contest In Modeling, Honorable Mention, 2024
