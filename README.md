@@ -2,7 +2,7 @@
 
 - 🔭 I am currently a senior at Sichuan University (SCU), majoring in Electronic Information Engineering (EIE).
 - 🌱 I’m currently learning and researching convex optimization and distributed control of MAS.
-- 💬 Ask me about neurodymaic optimization approaches...
+- 💬 Ask me about neurodynamic optimization approaches...
 - 📫 How to reach me: zhouruiqi@stu.scu.edu.cn.
 - 😄 Ready for CV/NLP... and any field of AI.
 - 💦 Preparing for Graduate School Entrance Exam.
