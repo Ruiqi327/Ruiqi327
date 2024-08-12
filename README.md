@@ -16,6 +16,7 @@
 - 🍀 First Prize of National College Student Mathematics Competition (Sichuan Province), 2023
 - 🍀 Second Prize in "Haiguang Cup" Electronic Design Competition of Sichuan University, 2023
 - 🍀 Second Prize of National College Student Mathematics Competition (Sichuan Province), 2022
+- 🍀 Outstanding student cadre of Sichuan University
 - 🍀 Comprehensive Second Class Scholarship of Sichuan University, 2022
 
 ### My publications... 
