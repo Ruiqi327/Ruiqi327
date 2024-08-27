@@ -21,7 +21,7 @@
 
 ### My publications... 
 
-- 🍎 R. Zhou, X. Ju, Q. Wang and S. Jiang, "Inverse-Free Neurodynamic Approach With Self-Adaptive Gain for Time-Varying Quadratic Programming and Applications," IEEE Control Systems Letters, doi: 10.1109/LCSYS.2024.3449287. Early Acess, https://ieeexplore.ieee.org/document/10646417
+- 🍎 R. Zhou, X. Ju, Q. Wang and S. Jiang, "Inverse-Free Neurodynamic Approach With Self-Adaptive Gain for Time-Varying Quadratic Programming and Applications," IEEE Control Systems Letters, doi: 10.1109/LCSYS.2024.3449287. Early Access, https://ieeexplore.ieee.org/document/10646417
 
 
 
