@@ -21,7 +21,8 @@
 
 ### My publications
 
-- 🍎 R. Zhou, X. Ju, Q. Wang and S. Jiang, "Inverse-Free Neurodynamic Approach With Self-Adaptive Gain for Time-Varying Quadratic Programming and Applications," IEEE Control Systems Letters, doi: 10.1109/LCSYS.2024.3449287. Early Access, https://ieeexplore.ieee.org/document/10646417
+- 🍎 J. Zheng, R. Zhou, X. Ju, X. Han and D. Wang, "Predefined Time Neurodynamic Approach to Mixed Variational Inequality Problems," 2024 6th International Conference on Electronic Engineering and Informatics (EEI), 2024, pp. 1296-1300, doi: 10.1109/EEI63073.2024.10696426. https://ieeexplore.ieee.org/document/10696426
+- 🍎 R. Zhou, X. Ju, Q. Wang and S. Jiang, "Inverse-Free Neurodynamic Approach With Self-Adaptive Gain for Time-Varying Quadratic Programming and Applications," in IEEE Control Systems Letters, vol. 8, pp. 2157-2162, 2024, doi: 10.1109/LCSYS.2024.3449287. https://ieeexplore.ieee.org/document/10646417
 - 🍎 R. Zhou, X. Ju, H. Che, Q. Zhang, "Circuit Implementation of Fixed-Time Zeroing Neural Network for Time-Varying Equality Constrained Quadratic Programming". Advances in Neural Networks – ISNN 2024. vol 14827. Springer, Singapore. https://doi.org/10.1007/978-981-97-4399-5_34
 
 
