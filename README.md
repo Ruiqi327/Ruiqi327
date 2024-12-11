@@ -8,6 +8,7 @@
 
 ### My experience
 
+- 🍀 First Prize of National College Student Mathematics Competition (Sichuan Province), 2024
 - 🍀 Outstanding student of Sichuan University, 2024
 - 🍀 Innovation and Entrepreneurship Program for College Students: National Level, Leader, 2024
 - 🍀 Third Prize in the National College Student Optoelectronic Design Competition (Sichuan Province), 2024
