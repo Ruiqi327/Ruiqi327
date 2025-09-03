@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ruiqi!
 
-- Currently I am a senior at Sichuan University (SCU), majoring in Electronic Information Engineering (EIE). I am about to purse my M.Eng. degeree in Department of Electronic Engineering, Tsinghua University (THU), supervised by Prof. Yongfeng Huang, where I'm going to investigate LLMs and NLP.
+- Currently I am a first-year master student in Department of Electronic Engineering, Tsinghua University (THU), supervised by Prof. Yongfeng Huang.
 - I used to do some research in time-varying optimization and control theory from 2022 to 2025, supervised by Prof. Xingxing Ju. As the team leader, I won the national prize in the College student's innovation program for this researach.
 
 ### My publications
