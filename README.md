@@ -2,7 +2,7 @@
 
 Currently I am a first-year master student in Department of Electronic Engineering, Tsinghua University (THU), supervised by Prof. Yongfeng Huang. Prior to that, I received my B.Eng. degree in College of Electronic Information, Sichuan University in 2025. Now my researach interests mainly cover natural language processing (NLP) and reinforcement learning for large language models (LLMs).
 
-I used to do some research in time-varying optimization and control theory from 2022 to 2025, supervised by Prof. Xingxing Ju. As the team leader, I won the national award in the College student's innovation program for this researach. I am still very interested in designing control-inspired optimization algorithms.
+I used to do some research in time-varying optimization and control theory from 2022 to 2025, supervised by Prof. Xingxing Ju. As the team leader, I won the national award in the College student's innovation program for this research. I am still very interested in designing control-inspired optimization algorithms.
 
 ### My publications
 - 🍎 S. Yan, Y. Chen, **R. Zhou**, et.al, "Explore-on-Graph: Incentivizing Autonomous Exploration of Large Language Models on Knowledge Graphs with Path-refined Reward Modeling", *The Fourteenth International Conference on Learning Representations (2026 ICLR)*.
