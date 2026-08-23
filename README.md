@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ruiqi!
 
-Currently I am a first-year master student in Department of Electronic Engineering, Tsinghua University (THU), supervised by Prof. Yongfeng Huang. Prior to that, I received my B.Eng. degree in College of Electronic Information, Sichuan University in 2025. Now my researach interests focus on **Training Methods for Large Language Models Driven by Synthetic Data**.
+Currently I am a second-year master student in Department of Electronic Engineering, Tsinghua University (THU), supervised by Prof. Yongfeng Huang. Prior to that, I received my B.Eng. degree in College of Electronic Information, Sichuan University in 2025. Now my researach interests focus on **Training Methods for Large Language Models Driven by Synthetic Data**.
 
 From 2026.5 I am an intern at Lumos, Beijing, where I participate in some research on pretraining for VLA models.
 
